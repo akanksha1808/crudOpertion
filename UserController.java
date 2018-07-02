@@ -1,5 +1,5 @@
-package com.infogain.controller;
-import com.infogain.entities.User;
+package com.example.controller;
+import com.example.entities.User;
 
 import java.util.List;
 
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.infogain.repository.UserRepository;
+import com.example.repository.UserRepository;
 
 @RestController
 @RequestMapping("/api")
