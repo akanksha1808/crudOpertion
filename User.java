@@ -1,4 +1,4 @@
-package com.infogain.entities;
+package com.example.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
